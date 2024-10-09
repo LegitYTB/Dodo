@@ -1,0 +1,28 @@
+```ALL SCRIPTS
+
+Best:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+
+Second best:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGHUB01/Doors/main/Doors"))()
+
+Third best:
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/040dab5bd20279b9f27b49f1b6c57729.lua"))()
+
+Rocket launcher:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/main/rocketLauncher.lua"))()
+
+Scanner script:
+_G.scanner_fps = 30
+_G.disable_static = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/main/Scanner.lua"))()
+
+StarJug script (item at end of rooms):
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/refs/heads/main/StarJug.lua"))()
+
+morphing script (q to disactivate):
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChronoAccelerator/Public-Scripts/main/Morphing/MorphScript.lua"))();
+
+YOUTUBE CHANNEL FOR ALL!
+https://www.youtube.com/@Scriptinghubb
